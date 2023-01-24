@@ -57,8 +57,8 @@ button {
   align-items: center;
   justify-content: center;
   min-width: 200px;
-  color: rgb(155, 7, 64);
-  background-color: rgb(250, 174, 205);
+  color: rgb(45, 46, 48);
+  background-color: rgb(141, 193, 239);
   border: 1px solid transparent;
   box-shadow: 0px 4px 4px rgb(0 0 0 / 15%);
   margin-left: 20px;
@@ -80,7 +80,7 @@ button:hover {
 }
 
 .input-search {
-  width: 50%;
+  width: 30%;
   height: 40px;
   border-radius: 4px;
   padding: 2px 10px;
